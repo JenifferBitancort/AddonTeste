@@ -1,6 +1,6 @@
 <h1 align="center" >
     <img width="100" src="https://github.com/JenifferBitancort/AddonTeste/assets/137184265/4abbadf7-b400-42e5-ac87-36a5b77d750d" />   
-<p>Addon Teste</p>
+<p>Addon PN x Estoque</p>
 </h1>
 
 Projeto que cria um Addon no SAP B1. 
@@ -13,8 +13,6 @@ O Addon trabalha com duas telas:
 - Aba Validação: Permite validar o codigo do PN
 
 https://github.com/JenifferBitancort/AddonTeste/assets/137184265/fbf1ca31-51b2-48b0-9332-ebae64c10843
-
-
 
 
 **Transferência de Estoque** 
