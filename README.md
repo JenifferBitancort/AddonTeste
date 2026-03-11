@@ -16,6 +16,7 @@ O Addon trabalha com duas telas:
 https://github.com/JenifferBitancort/AddonTeste/assets/137184265/fbf1ca31-51b2-48b0-9332-ebae64c10843
 
 
+
 **Transferência de Estoque**
 - Gera a visualização dos dados de estoque do item
 - Efetua Entrada de Mercadoria
